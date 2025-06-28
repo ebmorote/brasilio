@@ -18,7 +18,7 @@ Convertirme en contributor activo del proyecto **Kubernetes**
 - **Python** · Bash
 
 ### 📚 Certificaciones
-KCNA ✅ · CKA (En curso) · CKAD (En curso) · CKS (Renovación) · PCA · ICA
+KCNA ✅ · CKA (En curso) · CKAD (En curso)
 
 ### 💼 Experiencia reciente
 | Proyecto | Rol | Highlights |
@@ -28,6 +28,6 @@ KCNA ✅ · CKA (En curso) · CKAD (En curso) · CKS (Renovación) · PCA · ICA
 ---
 
 ### 🌱 Fun fact
-Conduzco un Subaru Crosstrek de nombre a “bituco”. ¡Se aceptan sugerencias!
+
 
 ---
