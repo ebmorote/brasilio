@@ -7,8 +7,6 @@
 
 ---
 
-### 🚀 Meta 2025
-Convertirme en contributor activo del proyecto **Kubernetes**
 
 ### 🛠️ Tech Stack
 - **Kubernetes (AKS)** · Helm · Ingress
